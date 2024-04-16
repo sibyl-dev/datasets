@@ -1,0 +1,2 @@
+scikit-learn==1.3.2
+pyreal==0.4.8
