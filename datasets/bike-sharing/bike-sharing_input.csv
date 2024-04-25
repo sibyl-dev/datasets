@@ -1,0 +1,4 @@
+season,mnth,weekday,weathersit,yr,hr,holiday,workingday,temp,atemp,hum,windspeed
+summer,Jun,Sun,clear,2012,19,0,0,29.6,30.001999999999995,27.0,12.998
+winter,Jan,Tue,clear,2012,20,1,0,3.28,-0.9982000000000006,41.0,15.0013
+fall,Oct,Sat,clear,2011,2,0,1,7.040000000000001,3.998000000000001,66.0,19.0012
